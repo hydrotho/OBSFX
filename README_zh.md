@@ -2,24 +2,24 @@
 
 [English](README.md) | [中文](README_zh.md)
 
-This GitHub repository contains a GitHub Action that allows users to easily build the StreamFX plugin for OBS Studio.
+这个 GitHub 仓库包含一个 GitHub Action，可以让用户轻松构建 OBS Studio 的 StreamFX 插件。
 
-StreamFX is an OBS Studio plugin that adds a variety of features to the software, including new filters, transitions, and other useful tools for streamers and content creators.
+StreamFX 是 OBS Studio 的插件，为此软件增添了众多特性，包括新的滤镜，转场特效，以及其他对于直播者和内容创作者有益的工具。
 
-## How to Use
+## 使用方法
 
-1. Fork this repository
-2. Click the `Actions` tab
+1. Fork 这个仓库
+2. 点击 `Actions` 选项卡
    ![image](https://github.com/hydrotho/OBSFX/assets/42911474/7fbbc55f-a916-428e-a402-fb5c1bb56b36)
-3. Choose the `Build` workflow
+3. 选择 `Build` workflow
    ![image](https://github.com/hydrotho/OBSFX/assets/42911474/feb07c04-fb44-4aa1-8166-245ca3bd13c2)
-4. Click the `Run workflow` button
+4. 点击 `Run workflow` 按钮
    ![image](https://github.com/hydrotho/OBSFX/assets/42911474/c5fa58b8-e1aa-4063-9cdb-215e2902ebfd)
-5. Wait for the workflow to complete
-6. Download the built plugin from `Artifacts`
+5. 等待 workflow 完成
+6. 在 `Artifacts` 中下载构建好的插件
    ![image](https://github.com/hydrotho/OBSFX/assets/42911474/75d0d6ee-b833-4c26-b8be-040c699bf129)
 
-## Reference
+## 参考资料
 
 [OBS Studio](https://github.com/obsproject/obs-studio)
 
