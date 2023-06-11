@@ -24,3 +24,7 @@ StreamFX 是 OBS Studio 的插件，为此软件增添了众多特性，包括�
 [OBS Studio](https://github.com/obsproject/obs-studio)
 
 [StreamFX](https://github.com/Xaymar/obs-StreamFX)
+
+## 许可证
+
+本项目采用 MIT 许可证，详情请参见 [LICENSE](LICENSE) 文件。

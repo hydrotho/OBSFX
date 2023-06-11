@@ -24,3 +24,7 @@ StreamFX is an OBS Studio plugin that adds a variety of features to the software
 [OBS Studio](https://github.com/obsproject/obs-studio)
 
 [StreamFX](https://github.com/Xaymar/obs-StreamFX)
+
+## License
+
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
