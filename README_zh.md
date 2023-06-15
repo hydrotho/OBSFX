@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文](README_zh.md)
 
+> 已验证：StreamFX 0.12.0 Beta 299 版本成功构建
+
 这个 GitHub 仓库包含一个 GitHub Action，可以让用户轻松构建 OBS Studio 的 StreamFX 插件。
 
 StreamFX 是 OBS Studio 的插件，为此软件增添了众多特性，包括新的滤镜，转场特效，以及其他对于直播者和内容创作者有益的工具。

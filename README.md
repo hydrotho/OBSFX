@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文](README_zh.md)
 
+> Verified: Successful build with StreamFX 0.12.0 Beta 299
+
 This GitHub repository contains a GitHub Action that allows users to easily build the StreamFX plugin for OBS Studio.
 
 StreamFX is an OBS Studio plugin that adds a variety of features to the software, including new filters, transitions, and other useful tools for streamers and content creators.
