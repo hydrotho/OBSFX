@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README_zh.md)
 
-> 已验证：StreamFX 0.12.0 Beta 299 版本成功构建
+> 已验证：StreamFX 0.12.0 Beta 366 版本成功构建
 
 这个 GitHub 仓库包含一个 GitHub Action，可以让用户轻松构建 OBS Studio 的 StreamFX 插件。
 

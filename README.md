@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README_zh.md)
 
-> Verified: Successful build with StreamFX 0.12.0 Beta 299
+> Verified: Successful build with StreamFX 0.12.0 Beta 366
 
 This GitHub repository contains a GitHub Action that allows users to easily build the StreamFX plugin for OBS Studio.
 
