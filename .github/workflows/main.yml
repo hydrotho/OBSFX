@@ -468,6 +468,9 @@ jobs:
         cmake \
           -S "${{ github.workspace }}" \
           -B "${{ github.workspace }}/build/ci" \
+          -DCMAKE_INSTALL_PREFIX="${{ github.workspace }}/build/ci/install" \
+          -DPACKAGE_NAME="OBSFX-${{ matrix.name }}-${{ matrix.compiler }}-Qt${{ matrix.qt }}" \
+          -DPACKAGE_PREFIX="${{ github.workspace }}/build/package" \
           -DCMAKE_C_COMPILER="${{ env.CMAKE_C_COMPILER }}" \
           -DCMAKE_CXX_COMPILER="${{ env.CMAKE_CXX_COMPILER }}" \
           -DCMAKE_INTERPROCEDURAL_OPTIMIZATION=ON \
